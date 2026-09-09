@@ -1,0 +1,7 @@
+starlette
+pydantic
+pytest
+fastapi
+uvicorn
+requests
+httpx2
